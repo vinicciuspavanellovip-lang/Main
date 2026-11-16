@@ -16,6 +16,16 @@
 
 ---
 
+## 📱 Screenshots
+
+<div align="center">
+  <img src="print1.jpg" alt="PavaLED X8 - LED Control" width="220" />
+  <img src="print2.jpg" alt="PavaLED X8 - Per-App Pulse" width="220" />
+  <img src="print3.jpg" alt="PavaLED X8 - Smart Rules" width="220" />
+</div>
+
+---
+
 ## ✨ What's New in `v2.0`
 
 | Feature | Description |
